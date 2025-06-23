@@ -1,8 +1,8 @@
 import time, requests, pyfiglet, threading
 print(pyfiglet.figlet_format("KINGMAN"))
 
-msg = input("Please Insert WebHook Spam Message: ")
-webhook = input("Please Insert WebHook URL: ")
+msg = input("get pwned by memtar and balls out niggas fuck this server")
+webhook = input("https://discord.com/api/webhooks/1377803501836566561/tWg813LN7J_wWpgTwlKD2KCbRxKOFd98urxfLjx0aWaxQKwRsAtJoJH_M7hQ5AAXioiQ")
 th = int(input('Number of thread ? (200 recommended): '))
 sleep = int(input("Sleeping time ? (recommended 2): "))
 def spam():
